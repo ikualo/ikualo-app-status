@@ -1,0 +1,14 @@
+{
+  "DEVELOPMENT": {
+    "status": "BLOCKED",
+    "message": "App is blocked"
+  },
+  "SANDBOX": {
+    "status": "ACTIVE",
+    "message": "App is running"
+  },
+  "PRODUCTION": {
+    "status": "ACTIVE",
+    "message": "App is running"
+  }
+}
