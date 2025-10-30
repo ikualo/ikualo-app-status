@@ -1,7 +1,7 @@
 {
   "DEVELOPMENT": {
     "status": "BLOCKED",
-    "message": "App is blocked"
+    "message": "La aplicación se encuentra bloqueada temmporalmente, intentálo más tarde."
   },
   "SANDBOX": {
     "status": "ACTIVE",
