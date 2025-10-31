@@ -4,7 +4,7 @@
     "message": "La aplicación se encuentra bloqueada temporalmente, intentálo más tarde."
   },
   "SANDBOX": {
-    "status": "MAINTENANCE",
+    "status": "ACTIVE",
     "message": "App is running"
   },
   "PRODUCTION": {
